@@ -89,8 +89,8 @@ make format
 ## **Authors & Acknowledgments**
 
 Developed by:  
-👨‍⚕️ **Alaedine Benani, MD, PhD candidate** (Zoī, AP-HP, Sorbonne University)  
-📚 **Pierre Bauvin, Emmanuel Messas, Xavier Tannier, Sylvain Bodard** (Zoī, AP-HP, Sorbonne University, Harvard)  
+👨‍⚕️ **Alaedine Benani, MD, PhD candidate** (Zoī, AP-HP, Sorbonne University) & **Dr Pierre Bauvin, PhD (Zoī)**
+📚 **Emmanuel Messas, Xavier Tannier, Sylvain Bodard** (Zoī, AP-HP, Sorbonne University, Harvard)  
 
 We acknowledge the support of our collaborators and reviewers.
 
